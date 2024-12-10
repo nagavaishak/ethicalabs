@@ -10,6 +10,7 @@ Interactive UI: Upload datasets, toggle features, and explore results with an in
 
 How to Use
 Clone the repository.
+download the load_data csv file, as the features are hardcoded for fairness and explainability
 Install dependencies with pip install -r requirements.txt.
 Run the app: streamlit run app.py.
 Upload a dataset and explore model insights.
